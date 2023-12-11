@@ -1,0 +1,126 @@
+  body{
+  	margin:0;
+  	font-family:'Merriweather',sans-serif;
+  	    color: #40514E;
+  }
+  .color{
+  	     color: #66BFBF;
+        font-size: 5.625rem;
+        font-family: 'Sacramento', cursive;
+        margin-top:70px;
+  }
+  .allign{
+  	   color: #66BFBF;
+       font-size:2.5rem;
+  }
+ 	.first-div{
+	background-color:#e4f9f5;
+	text-align:center;
+	}
+	.under{
+		text-decoration:underline;
+		color:#66BFBF; 
+	}
+	.cloud{
+        margin-left:600px;
+        margin-top:50px;
+	}
+	.cloud2{
+		margin-bottom:300px;
+		position:absolute;
+	}
+	h1{
+		margin:0;
+	    color:#66BFBF;
+	}
+	h3{
+		    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    font-weight: normal;
+	}
+	h2{
+		   color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.8rem;
+    margin-top:0px;
+    font-weight: normal;
+	}
+     hr{
+     	    border: dotted #EAF6F6 6px;
+             border-bottom: none;
+             width: 4%;
+             margin: 100px auto;
+     }
+  	.middle-container{
+        color:#40514E;
+	}
+	.profile,.skill-row,.contact-me{
+		text-align:center;
+	}
+	.footer-link{
+		margin-left:auto;
+		margin-right:auto;
+	}
+	.boss{
+		margin-top:70px;
+		width:15%;
+		border-radius:80px;
+	}
+	.skill{
+		width:25%;
+		float:left;
+		margin-right:30px;
+	}
+	.contact{
+		width:25%;
+		float:right;
+		margin-left:30px;
+	}
+	.btn{
+	  margin-top:20px;
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e); 
+	    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none	
+}
+.btn:hover{
+	background:#30e3cb;
+	background-image:-webkit-linear-gradient(top,#30e3cb,#2bc4ad);
+	background-image:-moz-linear-gradient(top,#30e3cb,#2bc4ad);
+	background-image:-ms-linear-gradient(top,#30e3cb,#2bc4ad);
+	background-image:-o-linear-gradient(top,#30e3cb,#2bc4ad);
+	background-image:linear-gradient(bottom,#30e3cb,#2bc4ad);
+	text-decoration:none;
+}
+.skill-row{
+	width:50%;
+	margin:100px auto 100px auto;
+	text-align:left;
+    line-height:2;
+   font-size:15px;
+   color:black;
+
+
+}
+.bottom-container{
+	text-align:center;
+	background-color:#66BFBF;
+	color:white;
+	margin-top:70px;
+	padding-top:50px;
+	padding-bottom:50px;
+}
+.footer-link{
+     text-decoration:none;
+     color: #11999e;
+     margin:10px 20px;
+     font-size:17px;
+     margin-bottom:50px;
+}
+.footer-link:hover{
+	color:white;
+}
